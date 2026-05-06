@@ -1,0 +1,1 @@
+del "%USERPROFILE%\.drive_locker_config.json"
